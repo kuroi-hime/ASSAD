@@ -1,0 +1,18 @@
+.label {
+  @apply block text-sm font-medium text-gray-700 mb-1;
+}
+
+.input {
+  @apply w-full px-4 py-3 rounded-lg bg-gray-200 border
+         focus:bg-white focus:outline-none focus:border-[#fae9aa];
+}
+
+.btn-primary {
+  @apply bg-[#d06119] text-white font-semibold py-3 rounded-lg
+         hover:bg-[#d06119]/90 transition;
+}
+
+.btn-outline {
+  @apply border border-[#d06119] text-[#d06119] font-semibold py-3 rounded-lg
+         hover:bg-[#fae9aa] transition;
+}
