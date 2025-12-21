@@ -335,7 +335,7 @@
                                 </div>
                             </div>
 
-                            <a href='closeDetails.php' class='mt-4 block w-full h-10 rounded-lg bg-[#13ec5b]/10 text-[#111813] font-bold text-sm hover:bg-[#13ec5b] hover:text-[#111813] transition-colors flex items-center justify-center gap-2'>
+                            <a href='closeDetails.php' class='mt-4 block w-full h-10 rounded-lg rounded-lg bg-red-100 text-red-700 font-bold text-sm hover:bg-red-600 hover:text-white transition-colors flex items-center justify-center gap-2'>
                                 Fermer
                             </a>
                         </div>
