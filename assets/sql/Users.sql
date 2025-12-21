@@ -5,13 +5,13 @@ INSERT INTO utilisateurs (nom_user, email, role, motpasse_hash) VALUES
 
 -- Guides
 INSERT INTO utilisateurs (nom_user, email, role, motpasse_hash) VALUES
-('Asmae Lhamri', 'asmea.savane@zoo.com', 'guide', md5('guideAsmae123')),
-('Khalid Ben Zida', 'benZida.tropiques@zoo.com', 'guide', md5('guideKhalid123')),
-('Omar Nabil', 'o.nabil.nocturne@zoo.com', 'guide', md5('guideOmar123'));
+('Asmae Lhamri', 'asmea.savane@zoo.com', 'Guide', md5('guideAsmae123')),
+('Khalid Ben Zida', 'benZida.tropiques@zoo.com', 'Guide', md5('guideKhalid123')),
+('Omar Nabil', 'o.nabil.nocturne@zoo.com', 'Guide', md5('guideOmar123'));
 
 -- Visiteurs
 INSERT INTO utilisateurs (nom_user, email, role, motpasse_hash) VALUES
-('Youssef El Amrani', 'youssef.elamrani@zoo.com', 'visiteur', md5('Y0uss3f!2025')),
-('Sara Benali', 'sara.benali@zoo.com', 'visiteur', md5('S@ra#Zoo2025')),
-('Hassan Idrissi', 'hassan.idrissi@zoo.com', 'visiteur', md5('Hass@n_1234')),
-('Meryem Fassi', 'meryem.fassi@zoo.com', 'visiteur', md5('M3ryem*Zoo'));
+('Youssef El Amrani', 'youssef.elamrani@zoo.com', 'Visiteur', md5('Y0uss3f!2025')),
+('Sara Benali', 'sara.benali@zoo.com', 'Visiteur', md5('S@ra#Zoo2025')),
+('Hassan Idrissi', 'hassan.idrissi@zoo.com', 'Visiteur', md5('Hass@n_1234')),
+('Meryem Fassi', 'meryem.fassi@zoo.com', 'Visiteur', md5('M3ryem*Zoo'));
